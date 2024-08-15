@@ -1,8 +1,12 @@
-# graphscope-jupyter
+# GraphScope-jupyter (Legacy)
 
-The project structure refers to **(ipycytoscape)[https://github.com/QuantStack/ipycytoscape/tree/1.1.0]**.
+> [!WARNING]  
+> The Jupyter Notebook extension has been deprecated. We are currently developing a new visualization tool in Python, which we plan to release by the end of 2024. Stay tuned!
 
-A widget enabling interactive graph visualization with [Graphin](https://github.com/antvis/Graphin) in JupyterLab and the Jupyter notebook.
+
+**Acknowledgement**: The project structure refers to [ipycytoscape](https://github.com/QuantStack/ipycytoscape/tree/1.1.0).
+
+This repo features a widget enabling interactive graph visualization with [Graphin](https://github.com/antvis/Graphin) in JupyterLab and the Jupyter notebook.
 
 ![graphin screencast](https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*EJvtT7KcywAAAAAAAAAAAAAAARQnAQ)
 
